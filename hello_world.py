@@ -4,11 +4,10 @@
 # Created on: Mar 26, 2020
 # This is "hello world" but, they way Dad wants it
 
-print("Hello, World!")
 
-def Main():
+def main():
     print("Hello world!")
-    
-if __name__=="__main__":
+
+
+if __name__ == "__main__":
     main()
-    
